@@ -558,4 +558,58 @@
 		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT23-3</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>ADR02BUJZ</PartNumber>
+		<Description>Источник опорного напряжения, 5В</Description>
+		<Comment>ADR02BUJZ</Comment>
+		<LibraryPath>Schematic\ADR02BUJZ.SchLib</LibraryPath>
+		<LibraryRef>ADR02BUJZ</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-5.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-5</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>ADS1220IPWR</PartNumber>
+		<Description>24-Бит Sigma-Delta аналого-цифровой преобразователь</Description>
+		<Comment>ADS1220IPWR</Comment>
+		<LibraryPath>Schematic\ADS1220IPWR.SchLib</LibraryPath>
+		<LibraryRef>ADS1220IPWR</LibraryRef>
+		<FootprintPath1>Footprints\TSSOP-16.PcbLib</FootprintPath1>
+		<FootprintRef1>TSSOP-16</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AP63203WU-7</PartNumber>
+		<Description>DC-DC Преобразователь</Description>
+		<Comment>AP63203WU-7</Comment>
+		<LibraryPath>Schematic\AP63203WU-7.SchLib</LibraryPath>
+		<LibraryRef>AP63203WU-7</LibraryRef>
+		<FootprintPath1>Footprints\TSOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>TSOT23-6</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>MAX3051EKA+T</PartNumber>
+		<Description>CAN трансивер 1Mbps +3.3В</Description>
+		<Comment>MAX3051EKA+T</Comment>
+		<LibraryPath>Schematic\MAX3051EKA+T.SchLib</LibraryPath>
+		<LibraryRef>MAX3051EKA+T</LibraryRef>
+		<FootprintPath1>Footprints\SOT-23-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT-23-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>REF195ESZ</PartNumber>
+		<Description>Источник опорного напряжения с низким падением напряжения, микромощный, 5В</Description>
+		<Comment>REF195ESZ</Comment>
+		<LibraryPath>Schematic\REF195ESZ.SchLib</LibraryPath>
+		<LibraryRef>REF195ESZ</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>AP63201QWU-7</PartNumber>
+		<Description>Понижающий импульсный регулятор IC с положительной регулировкой 0,8 В 1 Выxод 2A SOT-23-6 Тонкий</Description>
+		<Comment>AP63201QWU-7</Comment>
+		<LibraryPath>Schematic\AP63201QWU-7.SchLib</LibraryPath>
+		<LibraryRef>AP63201QWU-7</LibraryRef>
+		<FootprintPath1>Footprints\TSOT23-6.PcbLib</FootprintPath1>
+		<FootprintRef1>TSOT23-6</FootprintRef1>
+	</Part>
 </Chips>

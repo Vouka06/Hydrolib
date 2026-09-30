@@ -672,4 +672,16 @@
 		<FootprintRef1>NP0</FootprintRef1>
 		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
 	</Part>
+	<Part>
+		<PartNumber>GRM1885C1H560J</PartNumber>
+		<Description>Конденсатор 0603C ёмкостью 56 п 5%, 630 В, NP0</Description>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>GRM1885C1H560J</LibraryRef>
+		<Tolerance>Capacitor</Tolerance>
+		<Voltage>56 п</Voltage>
+		<Dielectric>5%</Dielectric>
+		<FootprintPath1>630</FootprintPath1>
+		<FootprintRef1>NP0</FootprintRef1>
+		<Capacity>Footprints\Capacitors\0603C.PcbLib</Capacity>
+	</Part>
 </Capacitors_ceramic>

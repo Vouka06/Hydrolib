@@ -362,4 +362,15 @@
 		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
 		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
 	</Part>
+	<Part>
+		<PartNumber>MLZ1608M100WT000</PartNumber>
+		<Description>10мкГн, 0603,20%, Индуктивность SMD</Description>
+		<Comment>MLZ1608M100WT000</Comment>
+		<FootprintPath1>Footprints\Inductance\0603L.PcbLib</FootprintPath1>
+		<FootprintRef1>0603L</FootprintRef1>
+		<FootprintPath2>Footprints\Inductance\.PcbLib</FootprintPath2>
+		<FootprintPath3>Footprints\Inductance\.PcbLib</FootprintPath3>
+		<FootprintPath4>Footprints\Inductance\.PcbLib</FootprintPath4>
+		<Value>10мк</Value>
+	</Part>
 </Inductance>
